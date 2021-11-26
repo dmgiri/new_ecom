@@ -1,0 +1,7 @@
+/env
+./env/
+*.pyc
+*.sqlite3
+ecom/static/*
+ecom/photos/*
+ecom/media/*
